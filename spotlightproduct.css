@@ -1,0 +1,160 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+body{
+    background-color: #ffffff;
+    height: 100%;
+    font-family: Inter, sans-serif;
+}
+.shopify_section {
+    width: 1903px;
+}
+.header-wrapper{
+    width: 1903px;
+    height: 117.52px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.header_main_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1200px;
+    height: 117.52px;
+}
+.header_main{
+    width: 1200px;
+    height: 69.516px;
+    padding: 36px 50px 12px 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.header_heading{
+    width: 127.5px;
+    height: 69.516px;
+}
+a{
+    width: 120px;
+    height: 54.52px;
+}
+.header_heading_logo{
+    width: 120px;
+    height: 54.52px;
+    
+}
+.header_icons{
+    display: flex;
+
+}
+.btn-icon-search{
+    margin: 0px 10px 1px 0px;
+    border: none;
+    background-color: #ffffff;
+}
+.container{
+    width: 1903px;
+    height: 1500px;
+}
+.main_container{
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 16px 0 0 0;
+    display: flex;
+}
+.left_content{
+    width: 715px;
+    height: 1346.63px;
+}
+.btn-img-product-1{
+    width: 715px;
+    height: 893.75px;
+    border: none;
+    border-radius: 10px;
+    margin: 0 0 20px 0;
+}
+.btn-img-product-2{
+    border: none;
+    border-radius: 10px;
+}
+.right_content_wrapper{
+    padding: 0 0 0 40px;
+}
+.price_CAD{
+    padding: 20px 0 ;
+}
+.label_quantity{
+    font-size: 13px;
+    color: grey;
+    padding: 0 0 10px 0;
+}
+.soluong{
+    display: flex;
+}
+.btn-giam{
+    padding: 10px 20px 10px 20px;
+    border-right: none ;
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    background-color: #ffffff;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    font-size: 18px;
+    color: gray;
+}
+.input-soluong{
+    width: 70px;
+    border-top: 1px solid black;
+    border-right: none;
+    border-bottom: 1px solid black;
+    border-left: none;
+    padding: 10px;
+    font-size: 18px;
+}
+.btn-tang{
+    padding: 10px 20px 10px 0;
+    border-left: none ;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    background-color: #ffffff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 18px;
+    color: gray;
+}
+.add-to-cart{
+    padding: 30px 0 10px 0;
+}
+.btn-add-to-cart{
+    width: 348px;
+    height: 45px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 17px;
+    border: 1px solid black;
+}
+.btn-buy-it-now{
+    width: 348px;
+    height: 45px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    font-size: 17px;
+    border: 1px solid rgba(252, 258, 119, 1);
+    background-color: rgba(252, 258, 119, 1);
+}
+.share{
+    font-size: 14px;
+    padding: 30px 0;
+}
+.fa-share{
+    padding: 0 5px 0 0;
+}
+li{
+    font-size: 18px;
+}
